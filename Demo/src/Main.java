@@ -40,7 +40,7 @@ class Rectangle
 
     public double area()
     {
-        return getLength()*getBreadth();
+        return length*breadth;
     }
 
     public double perimeter()
